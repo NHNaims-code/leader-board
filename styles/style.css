@@ -1,0 +1,12 @@
+.navbar img, .top-player img{
+    width: 40px;
+}
+body{
+    background-color: #E5E5E5;
+}
+.top-player img, .top-player p{
+    display: inline;
+}
+.w-15{
+    width: 10px;
+}
